@@ -10,8 +10,8 @@
 #### test.ipynb -- код выполенения первых трех пунктов.
 
 #### результаты на тесте 
-[] 'accuracy_score': 0.985
-[] 'recall_score': 0.992
-[] 'precision_score': 0.985
-[] 'f1_score': 0.988
-[] 'roc_auc_score': 0.982
+ 'accuracy_score': 0.985,
+ 'recall_score': 0.992,
+ 'precision_score': 0.985,
+ 'f1_score': 0.988,
+ 'roc_auc_score': 0.982
